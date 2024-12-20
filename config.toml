@@ -1,0 +1,4 @@
+baseURL = 'http://imzaok.github.io'
+languageCode = 'tr'
+title = 'imzaok'
+theme = "hugo-theme-console"
