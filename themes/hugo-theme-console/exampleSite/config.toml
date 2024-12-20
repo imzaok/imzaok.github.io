@@ -1,7 +1,7 @@
-baseURL = 'http://imzaok.github.io/'
-languageCode = 'tr'
-title = 'imzaok'
+baseurl = "https://example.com/"
+title = "console-demo"
 theme = "hugo-theme-console"
+languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
