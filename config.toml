@@ -1,6 +1,6 @@
-baseURL = 'http://imzaok.github.io/'
+baseURL = 'https://kusca.dev/'
 languageCode = 'tr'
-title = 'imzaok'
+title = 'kusca.dev'
 theme = "hugo-theme-console"
 
 [params]
