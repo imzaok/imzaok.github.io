@@ -12,11 +12,11 @@ theme = "hugo-theme-console"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "about/"
+  name = "hakkımda/"
   url = "about/"
 
   [[params.navlinks]]
-  name = "posts/"
+  name = "yazılar/"
   url = "posts/"
   
 #  [[params.navlinks]]
