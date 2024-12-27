@@ -10,15 +10,25 @@ theme = "hugo-theme-console"
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
   animateStyle = "animated zoomIn fast" 
-
-  [[params.navlinks]]
-  name = "hakkımda/"
-  url = "about/"
+  
+#  [[params.navlinks]]
+#  name = "hakkımda/"
+#  url = "about/"
 
   [[params.navlinks]]
   name = "yazılar/"
   url = "posts/"
   
+  [[params.navlinks]]
+  name = "kategoriler/"
+  url = "categories/"
+
+
 #  [[params.navlinks]]
 #  name = "photos/"
 #  url = "photos/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  
