@@ -7,11 +7,11 @@ categories: ["Network"]
 author: "Oğuzhan Kuşca"
 description: "Ağ topolojisine genel bir bakış ve fiziksel topoloji türleri."
 ---
-# Ağ Topolojisi Nedir?
-___
-Selamlar. İlk yazımda sizlere **ağ topolojilerinden** bahsetmek istiyorum. Ağ topolojisi "Bir ağı oluşturan cihazların fiziksel ve mantıksal yerleşimi" olarak tanımlanır. Yine ağ topolojilerini **fiziksel topoloji** ve **mantıksal topoloji** olarak ikiye ayırabiliriz.
 
+Selamlar. İlk yazımda sizlere **ağ topolojilerinden** bahsetmek istiyorum. Ağ topolojisi "Bir ağı oluşturan cihazların fiziksel ve mantıksal yerleşimi" olarak tanımlanır. Yine ağ topolojilerini **fiziksel topoloji** ve **mantıksal topoloji** olarak ikiye ayırabiliriz.
+<!--more-->
 Yazının ana odağı fiziksel topolojiler olacak. Ancak konuya geçmeden önce mantıksal topolojiye kısaca değinelim.
+
 
 ## Mantıksal Topoloji Nedir?
 ___
