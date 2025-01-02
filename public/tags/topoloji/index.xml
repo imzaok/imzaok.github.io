@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kusca.dev</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on kusca.dev</description>
+    <title>Topoloji on kusca.dev</title>
+    <link>http://localhost:1313/tags/topoloji/</link>
+    <description>Recent content in Topoloji on kusca.dev</description>
     <generator>Hugo</generator>
     <language>tr</language>
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/topoloji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ağ Topolojisi Nedir</title>
       <link>http://localhost:1313/posts/ag-topolojisi/</link>

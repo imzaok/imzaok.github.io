@@ -6,6 +6,21 @@
     <description>Recent content in Tags on kusca.dev</description>
     <generator>Hugo</generator>
     <language>tr</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ağ</title>
+      <link>http://localhost:1313/tags/a%C4%9F/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/a%C4%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topoloji</title>
+      <link>http://localhost:1313/tags/topoloji/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/topoloji/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
