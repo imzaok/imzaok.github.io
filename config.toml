@@ -4,6 +4,7 @@ title = 'kusca.dev'
 theme = "hugo-theme-console"
 
 [params]
+  description = "kusca.dev Yazılım/Teknoloji blogu."
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
 
@@ -23,6 +24,11 @@ theme = "hugo-theme-console"
   name = "kategoriler/"
   url = "categories/"
 
+  [[params.navlinks]]
+  name = "RSS/"
+  url = "https://kusca.dev/index.xml"
+
+
 
 #  [[params.navlinks]]
 #  name = "photos/"
@@ -32,3 +38,7 @@ theme = "hugo-theme-console"
   category = "categories"
   tag = "tags"
   
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss+xml"
+    baseName = "index"

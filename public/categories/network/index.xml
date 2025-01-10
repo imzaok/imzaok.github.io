@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+&lt;?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
   <channel>
-    <title>Network on kusca.dev</title>
-    <link>http://localhost:1313/categories/network/</link>
-    <description>Recent content in Network on kusca.dev</description>
-    <generator>Hugo</generator>
+    <title>kusca.dev</title>
+    <link>http://localhost:1313/</link>
+    <description>kusca.dev Yazılım/Teknoloji blogu.</description>
+
     <language>tr</language>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/network/index.xml" rel="self" type="application/rss+xml" />
+
+    
     <item>
       <title>Ağ Topolojisi Nedir</title>
       <link>http://localhost:1313/posts/ag-topolojisi/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ag-topolojisi/</guid>
-      <description>&lt;p&gt;Selamlar. İlk yazımda sizlere &lt;strong&gt;ağ topolojilerinden&lt;/strong&gt; bahsetmek istiyorum. Ağ topolojisi &amp;ldquo;Bir ağı oluşturan cihazların fiziksel ve mantıksal yerleşimi&amp;rdquo; olarak tanımlanır. Yine ağ topolojilerini &lt;strong&gt;fiziksel topoloji&lt;/strong&gt; ve &lt;strong&gt;mantıksal topoloji&lt;/strong&gt; olarak ikiye ayırabiliriz.&lt;/p&gt;</description>
+      <description><p>Selamlar. İlk yazımda sizlere <strong>ağ topolojilerinden</strong> bahsetmek istiyorum. Ağ topolojisi &ldquo;Bir ağı oluşturan cihazların fiziksel ve mantıksal yerleşimi&rdquo; olarak tanımlanır. Yine ağ topolojilerini <strong>fiziksel topoloji</strong> ve <strong>mantıksal topoloji</strong> olarak ikiye ayırabiliriz.</p></description>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</pubDate>
     </item>
+    
   </channel>
 </rss>
