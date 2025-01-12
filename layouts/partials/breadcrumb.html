@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{ range $index, $element := .Breadcrumbs }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $index 1 }},
+      "name": "{{ $element.Name }}",
+      "item": "{{ $element.URL }}"
+    }{{ if lt (add $index 1) (len .Breadcrumbs) }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
+
